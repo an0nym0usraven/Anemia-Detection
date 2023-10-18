@@ -11,7 +11,7 @@ body {
 }
 
 #bg {
-    background-image: url('/img/rbc.gif');
+    background-image: url('../img/rbc.gif');
     height: 100vh;
     background-position: center;
     background-size: cover;
